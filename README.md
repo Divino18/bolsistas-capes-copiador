@@ -120,7 +120,7 @@ rodar vários experimentos (ex: 10, 20, 40, 80, 160 nomes) sobre o mesmo
 
 ---
 
-## 5. Roteiro sugerido para os experimentos
+## 4. Roteiro sugerido para os experimentos
 
 1. Gere arquivos de origem com **n nomes distintos** para
    n = 10, 20, 40, 80, 160 (nomes únicos, sem repetição).
